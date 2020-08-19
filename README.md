@@ -1,5 +1,5 @@
-# dotfiles
+#Dotfiles 
 
-# Heavily inspired by @necolas’s prompt: https://github.com/necolas/dotfiles
+### Heavily inspired by @necolas’s prompt: https://github.com/necolas/dotfiles
 
 
